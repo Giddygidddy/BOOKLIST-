@@ -1,0 +1,30 @@
+{
+    "books": [
+      {
+        "id": 1,
+        "title": "Harry Potter 1",
+        "author": "Author 1",
+        "assignees": ["Assignee 1"]
+      },
+      {
+        "id": 2,
+        "title": "Harry Potter 2",
+        "author": "Author 2",
+        "assignees": ["Assignee 2"]
+    
+      },
+      {
+        "id": 3,
+        "title": "Harry Potter 3",
+        "author": "Author 3",
+        "assignees": ["Assignee 3"]
+      },
+      {
+        "id": 4,
+        "title": "Harry Potter 4",
+        "author": "Author 4",
+        "assignees": ["Assignee 4"]
+      }
+    ]
+  }
+  
